@@ -1,0 +1,4 @@
+﻿  binary.c
+d:\data_saving_cwl\program\binarycompression\binarycompression\source\binary.c(11): warning C4091: “typedef ”: 没有声明变量时忽略“Matrix”的左侧
+  BinaryCompression.vcxproj -> D:\Data_Saving_CWL\Program\BinaryCompression\BinaryCompression\Debug\BinaryCompression.exe
+  BinaryCompression.vcxproj -> D:\Data_Saving_CWL\Program\BinaryCompression\BinaryCompression\Debug\BinaryCompression.pdb (Full PDB)
